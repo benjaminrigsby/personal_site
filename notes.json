@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "title": "My Gear and Tools: Hardware",
+        "summary": "Hardware I use and recommend.",
+        "date": "June 15, 2021",
+        "mod_date": "Nov 24, 2024"
+    },
+    {
+        "id": 2,
+        "title": "My Gear and Tools: Software",
+        "summary": "Software I use and recommend.",
+        "date": "June 15, 2021",
+        "mod_date": "Nov 24, 2024"
+    },
+    {
+        "id": 3,
+        "title": "My Gear and Tools: Stuff That Saves Me Time",
+        "summary": "Stuff that I think will save everyone time.",
+        "date": "Nov 24, 2024",
+        "mod_date": "Nov 24, 2024"
+    },
+    {
+        "id": 4,
+        "title": "Why I Made a Blog",
+        "summary": "Overthinking this website.",
+        "date": "April 29, 2020",
+        "mod_date": "Nov 24, 2024"
+    },
+    {
+        "id": 5,
+        "title": "Podcasts I Listen(ed) To",
+        "summary": "Another list...this time, a list of podcasts",
+        "date": "April 29, 2020"
+    },
+    {
+        "id": 6,
+        "title": "Things People Said That Seemed Good (Great Quotes)",
+        "summary": "Outstanding quotes from the past (where else would they be from?)",
+        "date": "November 9, 2020"
+    },
+    {
+        "id": 7,
+        "title": "Review: First Week Using a Kindle",
+        "summary": "Ramblings of a first time Kindle user",
+        "date": "April 29, 2020"
+    },
+    {
+        "id": 8,
+        "title": "Vicon Camera Set Up Guide",
+        "summary": "A guide to setting up an overhead Vicon camera system",
+        "date": "April 26, 2020"
+    }
+]
