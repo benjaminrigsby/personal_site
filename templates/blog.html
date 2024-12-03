@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block title %}Blog - My Flask Website{% endblock %}
+{% block content %}
+<div class="header-image">
+    <img src="{{ url_for('static', filename='images/blog/_header.png') }}" alt="Blog Header" class="img-fluid">
+</div>
+<div class="row">
+    {% for post in posts %}
+    <div class="col-md-4 mb-3">
+        <div class="card">
+            <a href="{{ url_for('post_detail', post_id=post.id) }}" class="card card-link text-decoration-none">
+                <div class="card-body">
+                    <h5 class="card-title">{{ post.title }}</h5>
+                    <p class="card-text">{{ post.summary }}</p>
+                    <p class="card-text" style="color: #6c757d; font-size: 12px">{{ post.date }}</p>
+                </div>
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

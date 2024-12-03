@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Inkscape vs. Affinity Designer",
+        "summary": "Observations on the graphical design tools Inkscape and Affinity Designer",
+        "date": "June 15, 2021"
+    },
+    {
+        "id": 2,
+        "title": "It's Time to Upgrade Our Microsoft Office Knowledge",
+        "summary": "Stuff about Office that you probably didn't know",
+        "date": "November 20, 2024"
+    },
+    {
+        "id": 3,
+        "title": "My Foray into RPA: Hold Your Nose and Try Out Power Automate in the Office 365 Cloud",
+        "summary": "",
+        "date": "November 13, 2024"
+    },
+    {
+        "id": 4,
+        "title": "Messing Around with ChatGPT's and Copilot's Python Coding Abilities",
+        "summary": "",
+        "date": "June 14, 2024"
+    },
+    {
+        "id": 5,
+        "title": "Practical Dev Notes: Simple Util to Convert Plain Text to Python Format",
+        "summary": "",
+        "date": "June 10, 2024"
+    },
+    {
+        "id": 6,
+        "title": "What should a Ph.D. student do if their scientific writing doesn't seem good enough? Is there any way to improve it?",
+        "summary": "",
+        "date": "March 27, 2022"
+    },
+    {
+        "id": 7,
+        "title": "A Systematic Guide to Literature Reviews",
+        "summary": "",
+        "date": "April 12, 2021"
+    },
+    {
+        "id": 8,
+        "title": "An Authorship Framework for Research Papers",
+        "summary": "",
+        "date": "October 21, 2020"
+    },
+    {
+        "id": 9,
+        "title": "My Journey with 3D Printing and How to Get Started",
+        "summary": "",
+        "date": "May 20, 2020"
+    },
+    {
+        "id": 10,
+        "title": "My System for GTD Inboxing",
+        "summary": "",
+        "date": "February 5, 2020"
+    },
+    {
+        "id": 11,
+        "title": "How Do I Know I'm Qualified?",
+        "summary": "",
+        "date": "December 4, 2019"
+    }
+]

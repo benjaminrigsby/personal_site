@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block title %}Notes{% endblock %}
+{% block content %}
+<div class="header-image">
+    <img src="{{ url_for('static', filename='images/notes/_header.png') }}" alt="Notes Header" class="img-fluid">
+</div>
+
+<div class="row">
+    {% for note in notes %}
+    <div class="col-md-4 mb-3">
+        <div class="card">
+            <a href="{{ url_for('note_detail', note_id=note.id) }}" class="card card-link text-decoration-none">
+                <div class="card-body">
+                    <h5 class="card-title">{{ note.title }}</h5>
+                    <p class="card-text">{{ note.summary }}</p>
+                </div>
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
