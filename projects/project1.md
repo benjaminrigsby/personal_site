@@ -1,12 +1,13 @@
 ## What is this?
 I co-authored the third edition of Introduction to Programming Concepts with MATLAB. This was a fun experience for me as I love teaching and trying to figure out the most effective way to present content for a learner.
 
-- You can find all the details about the book here.
-- You can purchase the book here.
+- You can find all the details about the book [here](https://programming.autarkaw.com/).
+- You can purchase the book [here](http://www.lulu.com/shop/introduction-to-programming-concepts-with-matlab-third-edition/paperback/product-24333322.html).
 
-## Who’s the book intended for?
+## Who's the book intended for?
 This book is intended for an introductory course in programming in STEM (science, technology, engineering, and mathematics) fields while using MATLAB as the programming language. MATLAB is a popular computational software package used in universities and industries alike.
 
+<center><img src="../static/images/projects/textbook_cover.png" style="max-width:50%"></center>
 
 The purpose of this book is to provide the reader with a firm basic understanding of MATLAB syntax and fundamental programming concepts. Each lesson contains MATLAB programs that are used to help illustrate the concepts presented. By no means do the authors claim to present every MATLAB command, function, application, or programming concept in existence.
 
