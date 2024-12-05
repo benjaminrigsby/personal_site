@@ -1,12 +1,8 @@
 [
     {
         "id": 1,
-        "title": "Project 1",
-        "summary": "This is a brief summary of the first post."
-    },
-    {
-        "id": 2,
-        "title": "Project 2",
-        "summary": "This is a brief summary of the second post."
+        "title": "MATLAB Textbook",
+        "summary": "",
+        "date": "January 16, 2020"
     }
 ]
